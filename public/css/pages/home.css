@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+}
+
+.if-found {
+    background-color: hotpink;
+    width: 100%;
+    height: 200px;
+    display: none;
+}
+
+.results {
+    height: 100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    list-style: none;
+}
+
+.card {
+    
+}
+
+h2 {
+    text-align: center;
+    width: 100%;
+    height: 10%;
+}
+
+.image {
+    height: 50%;
+    width: 100%;
+}
+
+img { 
+    height: 100%;
+    width: 100%;
+}
+
+.info {
+    width: 100%;
+    height: 40%;
+}
+
+.desc {
+
+}
+
+
